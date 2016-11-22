@@ -5,3 +5,4 @@
 .DS_Store
 /*.zip
 /npm-debug.log
+.project

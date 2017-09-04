@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     titaniumifier: {
       module: {
         src: '.',
-        dest: '.'
+        dest: './dist'
       }
     },
 
